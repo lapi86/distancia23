@@ -2,7 +2,7 @@
 /**
  * Este script contiene una clase con dos métodos para manejo de archivos
  * @author Manuel Lapi García
- * @version 1.0
+ * @version 2.0
  */
 
 /**

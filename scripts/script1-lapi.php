@@ -2,7 +2,7 @@
 /**
  * Este script contiene dos funciones para operaciones matemáticas básicas
  * @author Manuel Lapi García
- * @version 1.0
+ * @version 2.0
  */
 
 /**
